@@ -1,30 +1,24 @@
 <div align="center">
 
-```
-██████╗ ██████╗ ███████╗    ██╗    ██╗ ██████╗ ██████╗ ██╗      ██████╗ 
-██╔══██╗██╔══██╗██╔════╝    ██║    ██║██╔═══██╗██╔══██╗██║      ██╔══██╗
-██████╔╝██████╔╝█████╗      ██║ █╗ ██║██║   ██║██████╔╝██║      ██║  ██║
-██╔═══╝ ██╔══██╗██╔══╝      ██║███╗██║██║   ██║██╔══██╗██║      ██║  ██║
-██║     ██║  ██║███████╗    ╚███╔███╔╝╚██████╔╝██║  ██║███████╗ ██████╔╝
-╚═╝     ╚═╝  ╚═╝╚══════╝     ╚══╝╚══╝  ╚═════╝ ╚═╝  ╚═╝╚══════╝ ╚═════╝ 
-```
+<img src="my_photo.jpg" width="120" style="border-radius:50%;" alt="Abdelwahab El Adaly"/>
 
-<img src="my_photo.jpg" width="130" style="border-radius:50%;" alt="Abdelwahab El Adaly"/>
+<h2>Abdelwahab El Adaly</h2>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&pause=1400&color=0077B5&center=true&vCenter=true&width=520&lines=Full-Stack+Web+Developer;Django+%26+React.js+Specialist;Cybersecurity+%26+Kali+Linux+Enthusiast;CS+Student+%F0%9F%8E%93" alt="Typing SVG" />
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&pause=1400&color=58A6FF&center=true&vCenter=true&width=560&lines=Full-Stack+Web+Developer;Django+%26+React.js+Specialist;Cybersecurity+%26+Kali+Linux+Enthusiast;Building+Serious+Systems+%F0%9F%9A%80" alt="Typing SVG" />
-
-<br/>
-
-[![Profile Views](https://komarev.com/ghpvc/?username=JOXSERVICE&color=58A6FF&style=flat-square&label=PROFILE+VIEWS)](https://github.com/JOXSERVICE)
-[![Followers](https://img.shields.io/github/followers/JOXSERVICE?style=flat-square&color=58A6FF&labelColor=0d1117&label=FOLLOWERS)](https://github.com/JOXSERVICE?tab=followers)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:aldalybdh327@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdou-s-73896138b)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/abdou_aldaly)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/JOXSERVICE)
+[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=flat-square&logo=codeforces&logoColor=white)](https://codeforces.com)
 
 </div>
 
 ---
 
-## `$ whoami`
+### About Me
 
 ```python
 class AbdelwahabElAdaly:
@@ -52,92 +46,99 @@ class AbdelwahabElAdaly:
 
 ---
 
-## `$ cat tech_stack.json`
+### Tech Stack
 
 <div align="center">
 
-### ⚡ Languages
-![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=58A6FF)
-![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=58A6FF)
-![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=for-the-badge&logo=typescript&logoColor=58A6FF)
-![SQL](https://img.shields.io/badge/SQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=58A6FF)
-![Bash](https://img.shields.io/badge/Bash-0d1117?style=for-the-badge&logo=gnubash&logoColor=58A6FF)
+**Languages**
 
-### 🏗️ Backend
-![Django](https://img.shields.io/badge/Django-0d1117?style=for-the-badge&logo=django&logoColor=58A6FF)
-![Django REST](https://img.shields.io/badge/Django_REST_Framework-0d1117?style=for-the-badge&logo=django&logoColor=58A6FF)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-0d1117?style=for-the-badge&logo=springboot&logoColor=58A6FF)
-![Celery](https://img.shields.io/badge/Celery-0d1117?style=for-the-badge&logo=celery&logoColor=58A6FF)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
 
-### 🎨 Frontend
-![React](https://img.shields.io/badge/React.js-0d1117?style=for-the-badge&logo=react&logoColor=58A6FF)
-![Next.js](https://img.shields.io/badge/Next.js-0d1117?style=for-the-badge&logo=nextdotjs&logoColor=58A6FF)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0d1117?style=for-the-badge&logo=tailwindcss&logoColor=58A6FF)
-![Three.js](https://img.shields.io/badge/Three.js-0d1117?style=for-the-badge&logo=threedotjs&logoColor=58A6FF)
-![GSAP](https://img.shields.io/badge/GSAP-0d1117?style=for-the-badge&logo=greensock&logoColor=58A6FF)
+**Backend**
 
-### 🗄️ Database & Infrastructure
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=58A6FF)
-![Redis](https://img.shields.io/badge/Redis-0d1117?style=for-the-badge&logo=redis&logoColor=58A6FF)
-![Docker](https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=58A6FF)
-![Nginx](https://img.shields.io/badge/Nginx-0d1117?style=for-the-badge&logo=nginx&logoColor=58A6FF)
-![Linux](https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux&logoColor=58A6FF)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Django REST](https://img.shields.io/badge/DRF-092E20?style=flat-square&logo=django&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Celery](https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white)
 
-### 🔐 Security
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-0d1117?style=for-the-badge&logo=kalilinux&logoColor=58A6FF)
-![Wireshark](https://img.shields.io/badge/Wireshark-0d1117?style=for-the-badge&logo=wireshark&logoColor=58A6FF)
-![Metasploit](https://img.shields.io/badge/Metasploit-0d1117?style=for-the-badge&logo=metasploit&logoColor=58A6FF)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-0d1117?style=for-the-badge&logo=burpsuite&logoColor=58A6FF)
+**Frontend**
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white)
+![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=black)
+
+**Database & Infrastructure**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+**Security**
+
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white)
 
 </div>
 
 ---
 
-## `$ ls -la projects/`
+### Projects
 
 <div align="center">
 <table>
 <tr>
 <td width="50%">
 
-### 🎓 Abdou Samy Academy — LMS
-> Full-featured Learning Management System with video streaming, course management, student analytics, payment integration & certification engine.
+**🎓 Abdou Samy Academy — LMS**
 
-**Stack:** Django · React · PostgreSQL · Redis · Celery · Stripe API
+Full-featured Learning Management System with video streaming, course management, student analytics, payment integration & certification engine.
 
-[![Repo](https://img.shields.io/badge/View_Repo-0d1117?style=for-the-badge&logo=github&logoColor=58A6FF)](https://github.com/JOXSERVICE)
+`Django` `React` `PostgreSQL` `Redis` `Celery` `Stripe`
+
+[![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/JOXSERVICE)
 
 </td>
 <td width="50%">
 
-### 🛍️ JOX-STORE — Digital Marketplace
-> A premium digital marketplace with dark luxury UI, seller dashboards, real-time notifications, secure checkout & automated delivery of digital goods.
+**🛍️ JOX-STORE — Digital Marketplace**
 
-**Stack:** Django REST · Next.js · Tailwind · PostgreSQL · Stripe
+Premium digital marketplace with seller dashboards, real-time notifications, secure checkout & automated delivery of digital goods.
 
-[![Repo](https://img.shields.io/badge/View_Repo-0d1117?style=for-the-badge&logo=github&logoColor=58A6FF)](https://github.com/JOXSERVICE)
+`Django REST` `Next.js` `Tailwind` `PostgreSQL` `Stripe`
+
+[![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/JOXSERVICE)
 
 </td>
 </tr>
 <tr>
 <td width="50%">
 
-### 🤖 Telegram Bot Suite
-> Smart bots with FSM conversation flows, webhook architecture, inline keyboards & admin control panels.
+**🤖 Telegram Bot Suite**
 
-**Stack:** Python · python-telegram-bot · Django · Redis
+Smart bots with FSM conversation flows, webhook architecture, inline keyboards & admin control panels.
 
-[![Repo](https://img.shields.io/badge/View_Repo-0d1117?style=for-the-badge&logo=github&logoColor=58A6FF)](https://github.com/JOXSERVICE)
+`Python` `python-telegram-bot` `Django` `Redis`
+
+[![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/JOXSERVICE)
 
 </td>
 <td width="50%">
 
-### 🌐 3D Immersive Portfolio
-> Interactive 3D web portfolio with particle systems, scroll-triggered animations, glassmorphism cards & WebGL scenes.
+**🌐 3D Immersive Portfolio**
 
-**Stack:** Three.js · GSAP · React · Vite · GLSL Shaders
+Interactive 3D web portfolio with particle systems, scroll-triggered animations, glassmorphism cards & WebGL scenes.
 
-[![Repo](https://img.shields.io/badge/View_Repo-0d1117?style=for-the-badge&logo=github&logoColor=58A6FF)](https://github.com/JOXSERVICE)
+`Three.js` `GSAP` `React` `Vite` `GLSL Shaders`
+
+[![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/JOXSERVICE)
 
 </td>
 </tr>
@@ -146,57 +147,13 @@ class AbdelwahabElAdaly:
 
 ---
 
-## `$ ping achievements`
-
-<div align="center">
-
-| Achievement | Details | Status |
-|---|---|---|
-| 🎓 CS Degree | Faculty of Computer Science & Information | `IN PROGRESS` |
-| 🏗️ LMS Architecture | Designed & built Abdou Samy Academy system | `SHIPPING` |
-| 🛒 Marketplace | JOX-STORE digital goods platform | `BUILDING` |
-| ⚔️ Competitive Programming | Active on Codeforces | `ACTIVE` |
-| 🔐 Cybersecurity | Penetration Testing · Kali Linux | `LEVELING UP` |
-| 🤖 Bot Development | Telegram bots with FSM logic | `DEPLOYED` |
-| 🌐 3D Web Dev | Three.js + GSAP immersive experiences | `MASTERING` |
-
-</div>
-
----
-
-## `$ cat philosophy.txt`
-
 <div align="center">
 
 > *"I don't build features. I architect systems.*
 > *Every pixel has intent, every function has purpose, every system has a soul."*
->
-> — **Abdelwahab El Adaly**
-
-</div>
-
----
-
-## `$ nc -zv connections 443`
-
-<div align="center">
-
-[![Email](https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=58A6FF)](mailto:aldalybdh327@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=58A6FF)](https://www.linkedin.com/in/abdou-s-73896138b)
-[![Instagram](https://img.shields.io/badge/Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=58A6FF)](https://www.instagram.com/abdou_aldaly)
-[![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=58A6FF)](https://github.com/JOXSERVICE)
-[![Codeforces](https://img.shields.io/badge/Codeforces-0d1117?style=for-the-badge&logo=codeforces&logoColor=58A6FF)](https://codeforces.com)
 
 <br/>
 
-```
-> Open to collaboration on ambitious projects.
-> Available for freelance — high standards only.
-> Response time: usually < 24h
-```
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=58A6FF&height=80&section=footer" width="100%"/>
+`Open to collaboration` · `Available for freelance` · `Response time < 24h`
 
 </div>
