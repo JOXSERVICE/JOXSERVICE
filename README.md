@@ -3,54 +3,36 @@
 
   <h1>Hi there! I'm Abdelwahab El Adaly (Abdo) 🌌</h1>
 
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38B2AC&center=true&vCenter=true&width=600&lines=Full-Stack+Web+Developer;Django+%26+React.js+Specialist;Crafting+Dark+Luxury+%26+Glassmorphism+UIs;Cybersecurity+%26+Kali+Linux+Enthusiast;Computer+Science+Student" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38B2AC&center=true&vCenter=true&width=600&lines=Full-Stack+Web+Developer;Django+%26+React.js+Specialist;Crafting+Dark+Luxury+%26+Glassmorphism+UIs;Cybersecurity+Enthusiast" alt="Typing SVG" />
 </div>
 
 ---
 
-### 👨‍💻 About Me & My Vision
+### 👨‍💻 About Me
 - 🎓 **CS Student** at the Faculty of Computer Science & Information.
-- 💡 Passionate about building **high-end, pixel-perfect experiences** with complex logic under the hood.
-- 🛠️ Currently architecting **Abdou Samy Academy (LMS)** and powerhouse of digital services **JOX-STORE**.
-- 🔒 Diving deep into **Cybersecurity**, network vulnerabilities, and tools like `netexec` on Kali Linux.
-- 🤖 Experienced in **Telegram Bot API**, **Three.js**, and **GSAP** for creating dynamic 3D web experiences.
-- 🏆 Active in **Competitive Programming** on Codeforces to constantly sharpen my problem-solving skills.
+- 💡 Passionate about building **high-end, pixel-perfect experiences**.
+- 🛠️ Currently architecting **Abdou Samy Academy (LMS)** and **JOX-STORE**.
+- 🔒 Diving deep into **Cybersecurity** and Penetration Testing with Kali Linux.
+- 🏆 Active in **Competitive Programming** on Codeforces.
 
 ---
 
 ### 🚀 My Tech Arsenal
-
 <div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,django,js,react,nextjs,tailwind,spring,postgres,linux,kali,github,vscode&perline=6" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=py,django,js,react,nextjs,tailwind,spring,postgres,linux,kali,github,vscode&perline=6" />
 </div>
 
 ---
 
-### 🏆 GitHub Trophies & Stats
-
+### 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=JOXSERVICE&theme=radical&no-frame=true&row=1&column=6&margin-w=15" alt="Trophies" />
-</div>
-<br>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JOXSERVICE&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JOXSERVICE&theme=radical&hide_border=true" width="48%" />
-</div>
-<br>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JOXSERVICE&layout=compact&theme=radical&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=JOXSERVICE&show_icons=true&theme=radical&hide_border=true&cache_seconds=1800" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JOXSERVICE&layout=compact&theme=radical&hide_border=true&cache_seconds=1800" width="48%" />
 </div>
 
 ---
 
 ### 📫 Let's Connect!
-
 <div align="center">
   <a href="mailto:aldalybdh327@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
