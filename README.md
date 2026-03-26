@@ -1,7 +1,7 @@
 <div align="center">
   <img src="my_photo.jpg" alt="Abdo" width="180" style="border-radius: 50%; border: 3px solid #38B2AC; box-shadow: 0 0 15px rgba(56, 178, 172, 0.4);">
 
-  <h1>Hi there! I'm Abdelwahab El Gendy (Abdo) 🌌</h1>
+  <h1>Hi there! I'm Abdelwahab El Adaly (Abdo) 🌌</h1>
 
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38B2AC&center=true&vCenter=true&width=600&lines=Full-Stack+Web+Developer;Django+%26+React.js+Specialist;Crafting+Dark+Luxury+%26+Glassmorphism+UIs;Cybersecurity+%26+Kali+Linux+Enthusiast;Computer+Science+Student" alt="Typing SVG" />
