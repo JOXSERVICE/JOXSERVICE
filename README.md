@@ -1,159 +1,113 @@
 <div align="center">
+  <img src="my_photo.jpg" width="100" style="border-radius:50%;" alt="Abdo"/>
+  
+  <h1>Abdelwahab El Adaly</h1>
+  
+  <p>
+    <b>Full-Stack Web Developer</b> · Egypt 🇪🇬<br/>
+    <sub>Django & React.js · Cybersecurity · Competitive Programming</sub>
+  </p>
 
-<img src="my_photo.jpg" width="120" style="border-radius:50%;" alt="Abdelwahab El Adaly"/>
-
-<h2>Abdelwahab El Adaly</h2>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&pause=1400&color=0077B5&center=true&vCenter=true&width=520&lines=Full-Stack+Web+Developer;Django+%26+React.js+Specialist;Cybersecurity+%26+Kali+Linux+Enthusiast;CS+Student+%F0%9F%8E%93" alt="Typing SVG" />
-
-<br/>
-
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:aldalybdh327@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdou-s-73896138b)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/abdou_aldaly)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/JOXSERVICE)
-[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=flat-square&logo=codeforces&logoColor=white)](https://codeforces.com)
+  <a href="mailto:aldalybdh327@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/abdou-s-73896138b">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="https://www.instagram.com/abdou_aldaly">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/JOXSERVICE">
+    <img src="https://img.shields.io/badge/GitHub-24292F?style=flat&logo=github&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="https://codeforces.com">
+    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=flat&logo=codeforces&logoColor=white"/>
+  </a>
 
 </div>
 
----
+<br/>
 
-### About Me
+## About
 
-```python
-class AbdelwahabElAdaly:
-    name       = "Abdelwahab El Adaly (Abdo)"
-    location   = "Egypt 🇪🇬"
-    education  = "CS @ Faculty of Computer Science & Information"
-    role       = "Full-Stack Engineer & Security Researcher"
+CS student passionate about building complete, production-ready systems from the ground up — clean architecture, real performance, and interfaces that feel right. Currently architecting two full platforms while diving deep into penetration testing and network security.
 
-    currently_building = [
-        "Abdou Samy Academy — Full LMS Platform",
-        "JOX-STORE — Premium Digital Marketplace",
-    ]
+- 🏗️ Building **[Abdou Samy Academy](https://github.com/JOXSERVICE)** — a full LMS with video streaming, payments & certification
+- 🛒 Building **[JOX-STORE](https://github.com/JOXSERVICE)** — a premium digital marketplace with real-time features
+- ⚔️ Active on **Codeforces** — sharpening algorithmic thinking daily
+- 🔐 Exploring **Penetration Testing** with Kali Linux, Wireshark & Burp Suite
+- 🤖 Building smart **Telegram bots** with FSM logic and webhook architecture
+- 🌐 Creating **3D web experiences** with Three.js and GSAP
 
-    interests = [
-        "High-end pixel-perfect web experiences",
-        "System Architecture & Complex Logic",
-        "Penetration Testing & Network Security",
-        "Competitive Programming (Codeforces)",
-        "3D Web Experiences (Three.js + GSAP)",
-    ]
+<br/>
 
-    ask_me_about = ["Django", "React", "Kali Linux", "WebSec", "APIs"]
-    fun_fact     = "I think in systems, I dream in code. 🌌"
-```
-
----
-
-### Tech Stack
-
-<div align="center">
-
-**Languages**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+## Tech Stack
 
 **Backend**
 
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![Django REST](https://img.shields.io/badge/DRF-092E20?style=flat-square&logo=django&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![Celery](https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
+![Django REST Framework](https://img.shields.io/badge/DRF-092E20?style=flat&logo=django&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
+![Celery](https://img.shields.io/badge/Celery-37814A?style=flat&logo=celery&logoColor=white)
 
 **Frontend**
 
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white)
-![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0F172A?style=flat&logo=tailwindcss&logoColor=38BDF8)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat&logo=threedotjs&logoColor=white)
+![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=flat&logo=greensock&logoColor=black)
 
-**Database & Infrastructure**
+**Database & DevOps**
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
 **Security**
 
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white)
-
-</div>
-
----
-
-### Projects
-
-<div align="center">
-<table>
-<tr>
-<td width="50%">
-
-**🎓 Abdou Samy Academy — LMS**
-
-Full-featured Learning Management System with video streaming, course management, student analytics, payment integration & certification engine.
-
-`Django` `React` `PostgreSQL` `Redis` `Celery` `Stripe`
-
-[![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/JOXSERVICE)
-
-</td>
-<td width="50%">
-
-**🛍️ JOX-STORE — Digital Marketplace**
-
-Premium digital marketplace with seller dashboards, real-time notifications, secure checkout & automated delivery of digital goods.
-
-`Django REST` `Next.js` `Tailwind` `PostgreSQL` `Stripe`
-
-[![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/JOXSERVICE)
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-**🤖 Telegram Bot Suite**
-
-Smart bots with FSM conversation flows, webhook architecture, inline keyboards & admin control panels.
-
-`Python` `python-telegram-bot` `Django` `Redis`
-
-[![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/JOXSERVICE)
-
-</td>
-<td width="50%">
-
-**🌐 3D Immersive Portfolio**
-
-Interactive 3D web portfolio with particle systems, scroll-triggered animations, glassmorphism cards & WebGL scenes.
-
-`Three.js` `GSAP` `React` `Vite` `GLSL Shaders`
-
-[![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/JOXSERVICE)
-
-</td>
-</tr>
-</table>
-</div>
-
----
-
-<div align="center">
-
-> *"I don't build features. I architect systems.*
-> *Every pixel has intent, every function has purpose, every system has a soul."*
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat&logo=kalilinux&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat&logo=burpsuite&logoColor=white)
 
 <br/>
 
-`Open to collaboration` · `Available for freelance` · `Response time < 24h`
+## Projects
 
+| Project | Description | Stack |
+|---|---|---|
+| 🎓 **[Abdou Samy Academy](https://github.com/JOXSERVICE)** | Full LMS — video streaming, analytics, payments, certification | Django · React · PostgreSQL · Stripe |
+| 🛒 **[JOX-STORE](https://github.com/JOXSERVICE)** | Digital marketplace — seller dashboards, real-time notifications | DRF · Next.js · Tailwind · Redis |
+| 🤖 **[Telegram Bot Suite](https://github.com/JOXSERVICE)** | Smart bots with FSM flows, webhooks & admin panels | Python · python-telegram-bot · Redis |
+| 🌐 **[3D Portfolio](https://github.com/JOXSERVICE)** | Immersive 3D web experience with particles & WebGL | Three.js · GSAP · React · GLSL |
+
+<br/>
+
+## GitHub Activity
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=JOXSERVICE&bg_color=0d1117&color=ffffff&line=0A66C2&point=ffffff&area=true&hide_border=true"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=JOXSERVICE&bg_color=ffffff&color=0d1117&line=0A66C2&point=0d1117&area=true&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JOXSERVICE&bg_color=0d1117&color=ffffff&line=0A66C2&point=ffffff&area=true&hide_border=true" width="95%"/>
+</picture>
+
+</div>
+
+<br/>
+
+---
+
+<div align="center">
+  <sub>Open to collaboration on serious projects &nbsp;·&nbsp; Available for freelance &nbsp;·&nbsp; Response time &lt; 24h</sub>
 </div>
