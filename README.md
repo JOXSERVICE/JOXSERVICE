@@ -3,17 +3,18 @@
 
   <h1>Hi there! I'm Abdelwahab El Adaly (Abdo) 🌌</h1>
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38B2AC&center=true&vCenter=true&width=600&lines=Full-Stack+Web+Developer;Django+%26+React.js+Specialist;Crafting+Dark+Luxury+UIs;Cybersecurity+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38B2AC&center=true&vCenter=true&width=600&lines=Full-Stack+Web+Developer;Django+%26+React.js+Specialist;Crafting+Dark+Luxury+%26+Glassmorphism+UIs;Cybersecurity+%26+Kali+Linux+Enthusiast;Computer+Science+Student" alt="Typing SVG" />
 </div>
 
 ---
 
-### 👨‍💻 About Me
+### 👨‍💻 About Me & My Vision
 - 🎓 **CS Student** at the Faculty of Computer Science & Information.
-- 💡 Passionate about building **high-end, pixel-perfect experiences**.
-- 🛠️ Currently architecting **Abdou Samy Academy (LMS)** and **JOX-STORE**.
-- 🔒 Diving deep into **Cybersecurity** and Penetration Testing with Kali Linux.
-- 🏆 Active in **Competitive Programming** on Codeforces.
+- 💡 Passionate about building **high-end, pixel-perfect experiences** with complex logic.
+- 🛠️ Currently architecting **Abdou Samy Academy (LMS)** and the digital marketplace **JOX-STORE**.
+- 🔒 Diving deep into **Cybersecurity**, network vulnerabilities, and Penetration Testing with Kali Linux.
+- 🤖 Experienced in **Telegram Bot API**, **Three.js**, and **GSAP** for creating dynamic 3D web experiences.
+- 🏆 Active in **Competitive Programming** on Codeforces to sharpen my problem-solving skills.
 
 ---
 
@@ -24,17 +25,26 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📊 My GitHub Performance
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JOXSERVICE&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JOXSERVICE&layout=compact&theme=radical&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=JOXSERVICE&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JOXSERVICE&layout=compact&theme=radical&hide_border=true&cache_seconds=1800" width="48%" />
 </div>
 
 ---
 
 ### 📫 Let's Connect!
 <div align="center">
-  <a href="mailto:aldalybdh327@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/abdou-s-73896138b"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://www.instagram.com/abdou_aldaly"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="mailto:aldalybdh327@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://www.linkedin.com/in/abdou-s-73896138b">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://www.instagram.com/abdou_aldaly">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="https://github.com/JOXSERVICE">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
 </div>
