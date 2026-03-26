@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="my_photo.jpg" alt="Abdo" width="180" style="border-radius: 50%; border: 3px solid #38B2AC; box-shadow: 0 0 15px rgba(56, 178, 172, 0.4);">
+  <img src="my_photo.jpg" width="180" style="border-radius: 50%; border: 3px solid #38B2AC; box-shadow: 0 0 15px rgba(56, 178, 172, 0.4);" alt="Abdelwahab Profile">
 
   <h1>Hi there! I'm Abdelwahab El Adaly (Abdo) 🌌</h1>
 
@@ -10,13 +10,13 @@
 
 ---
 
-### 👨‍💻 About Me
+### 👨‍💻 About Me & My Vision
 - 🎓 **CS Student** at the Faculty of Computer Science & Information.
-- 💡 Passionate about building **high-end, pixel-perfect experiences** with complex logic.
-- 🛠️ Currently architecting **Abdou Samy Academy (LMS)** and **JOX-STORE**.
-- 🔒 Diving deep into **Cybersecurity** and Penetration Testing with Kali Linux.
-- 🤖 Experienced in **Telegram Bot API**, **Three.js**, and **GSAP** for 3D web experiences.
-- 🏆 Active in **Competitive Programming** on Codeforces.
+- 💡 Passionate about building **high-end, pixel-perfect experiences** with complex logic under the hood.
+- 🛠️ Currently architecting **Abdou Samy Academy (LMS)** and powerhouse of digital services **JOX-STORE**.
+- 🔒 Diving deep into **Cybersecurity**, network vulnerabilities, and tools like `netexec` on Kali Linux.
+- 🤖 Experienced in **Telegram Bot API**, **Three.js**, and **GSAP** for creating dynamic 3D web experiences.
+- 🏆 Active in **Competitive Programming** on Codeforces to constantly sharpen my problem-solving skills.
 
 ---
 
@@ -30,10 +30,20 @@
 
 ---
 
-### 📊 GitHub Stats
+### 🏆 GitHub Trophies & Stats
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=JOXSERVICE&theme=radical&no-frame=true&row=1&column=6&margin-w=15" alt="Trophies" />
+</div>
+<br>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=JOXSERVICE&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JOXSERVICE&theme=radical&hide_border=true" width="48%" />
+</div>
+<br>
+
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JOXSERVICE&layout=compact&theme=radical&hide_border=true" width="48%" />
 </div>
 
@@ -47,6 +57,9 @@
   </a>
   <a href="https://www.linkedin.com/in/abdou-s-73896138b">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://www.instagram.com/abdou_aldaly">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
   <a href="https://github.com/JOXSERVICE">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
