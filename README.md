@@ -1,16 +1,75 @@
-## Hi there 👋
+<div align="center">
+  <img src="my_photo.jpg" alt="Abdo" width="180" style="border-radius: 50%; border: 3px solid #38B2AC; box-shadow: 0 0 15px rgba(56, 178, 172, 0.4);">
 
-<!--
-**JOXSERVICE/JOXSERVICE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <h1>Hi there! I'm Abdelwahab El Gendy (Abdo) 🌌</h1>
 
-Here are some ideas to get you started:
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38B2AC&center=true&vCenter=true&width=600&lines=Full-Stack+Web+Developer;Django+%26+React.js+Specialist;Crafting+Dark+Luxury+%26+Glassmorphism+UIs;Cybersecurity+%26+Kali+Linux+Enthusiast;Computer+Science+Student" alt="Typing SVG" />
+  </a>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 👨‍💻 About Me
+- 🎓 **CS Student** at the Faculty of Computer Science & Information.
+- 💡 Passionate about building **high-end, pixel-perfect experiences** with complex logic.
+- 🛠️ Currently architecting **Abdou Samy Academy (LMS)** and **JOX-STORE**.
+- 🔒 Diving deep into **Cybersecurity** and Penetration Testing with Kali Linux.
+- 🤖 Experienced in **Telegram Bot API**, **Three.js**, and **GSAP** for 3D web experiences.
+- 🏆 Active in **Competitive Programming** on Codeforces.
+
+---
+
+### 🚀 My Tech Arsenal
+
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,django,js,react,nextjs,tailwind,spring,postgres,linux,kali,github,vscode&perline=6" />
+  </a>
+</div>
+
+---
+
+### 🐍 The Contribution Snake
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JOXSERVICE/JOXSERVICE/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JOXSERVICE/JOXSERVICE/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/JOXSERVICE/JOXSERVICE/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
+---
+
+### 🏆 GitHub Trophies & Stats
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=JOXSERVICE&theme=radical&no-frame=true&row=1&column=6&margin-w=15" alt="Trophies" />
+</div>
+<br>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=JOXSERVICE&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JOXSERVICE&theme=radical&hide_border=true" width="48%" />
+</div>
+<br>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JOXSERVICE&layout=compact&theme=radical&hide_border=true" width="48%" />
+</div>
+
+---
+
+### 📫 Let's Connect!
+
+<div align="center">
+  <a href="aldalybdh327@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://www.linkedin.com/in/abdou-s-73896138b?utm_source=share_via&utm_content=profile&utm_medium=member_ios">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/JOXSERVICE">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</div>
