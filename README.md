@@ -1,32 +1,42 @@
 <div align="center">
-  <img src="my_photo.jpg" width="100" style="border-radius:50%;" alt="Abdo"/>
-  
-  <h1>Abdelwahab El Adaly</h1>
-  
-  <p>
-    <b>Full-Stack Web Developer</b> · Egypt 🇪🇬<br/>
-    <sub>Django & React.js · Cybersecurity · Competitive Programming</sub>
-  </p>
 
-  <a href="mailto:aldalybdh327@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white"/>
-  </a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/abdou-s-73896138b">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
-  </a>
-  &nbsp;
-  <a href="https://www.instagram.com/abdou_aldaly">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white"/>
-  </a>
-  &nbsp;
-  <a href="https://github.com/JOXSERVICE">
-    <img src="https://img.shields.io/badge/GitHub-24292F?style=flat&logo=github&logoColor=white"/>
-  </a>
-  &nbsp;
-  <a href="https://codeforces.com">
-    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=flat&logo=codeforces&logoColor=white"/>
-  </a>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0A66C2&height=200&section=header&text=Abdelwahab%20El%20Adaly&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Web%20Developer%20%7C%20Egypt%20%F0%9F%87%AA%F0%9F%87%AC&descAlignY=58&descSize=16&animation=fadeIn" width="100%"/>
+
+<br/>
+
+<img src="my_photo.jpg" width="110" style="border-radius:50%;" alt="Abdo"/>
+
+<br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1200&color=0A66C2&center=true&vCenter=true&width=560&lines=Full-Stack+Web+Developer;Django+%26+React.js+Specialist;Cybersecurity+%26+Kali+Linux+Enthusiast;Building+real+systems+from+scratch+%F0%9F%9A%80;CS+Student+%F0%9F%8E%93" alt="Typing SVG" />
+
+<br/>
+
+<a href="mailto:aldalybdh327@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/abdou-s-73896138b">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://www.instagram.com/abdou_aldaly">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://github.com/JOXSERVICE">
+  <img src="https://img.shields.io/badge/GitHub-24292F?style=flat&logo=github&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://codeforces.com">
+  <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=flat&logo=codeforces&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=JOXSERVICE&style=flat&color=0A66C2&label=Profile+Views)
+&nbsp;
+![Followers](https://img.shields.io/github/followers/JOXSERVICE?style=flat&color=0A66C2&label=Followers)
 
 </div>
 
@@ -36,7 +46,7 @@
 
 CS student passionate about building complete, production-ready systems from the ground up — clean architecture, real performance, and interfaces that feel right. Currently architecting two full platforms while diving deep into penetration testing and network security.
 
-- 🏗️ Building **[Abdou Samy Academy](https://github.com/JOXSERVICE)** — a full LMS with video streaming, payments & certification
+- 🏗️ Building **[Abdou Samy Academy](https://github.com/JOXSERVICE)** — full LMS with video streaming, payments & certification
 - 🛒 Building **[JOX-STORE](https://github.com/JOXSERVICE)** — a premium digital marketplace with real-time features
 - ⚔️ Active on **Codeforces** — sharpening algorithmic thinking daily
 - 🔐 Exploring **Penetration Testing** with Kali Linux, Wireshark & Burp Suite
@@ -102,6 +112,14 @@ CS student passionate about building complete, production-ready systems from the
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=JOXSERVICE&bg_color=0d1117&color=ffffff&line=0A66C2&point=ffffff&area=true&hide_border=true" width="95%"/>
 </picture>
 
+<br/><br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JOXSERVICE/JOXSERVICE/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JOXSERVICE/JOXSERVICE/output/github-contribution-grid-snake.svg"/>
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/JOXSERVICE/JOXSERVICE/output/github-contribution-grid-snake-dark.svg" width="95%"/>
+</picture>
+
 </div>
 
 <br/>
@@ -109,5 +127,9 @@ CS student passionate about building complete, production-ready systems from the
 ---
 
 <div align="center">
-  <sub>Open to collaboration on serious projects &nbsp;·&nbsp; Available for freelance &nbsp;·&nbsp; Response time &lt; 24h</sub>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0A66C2&height=100&section=footer&animation=fadeIn" width="100%"/>
+
+<sub>Open to collaboration on serious projects &nbsp;·&nbsp; Available for freelance &nbsp;·&nbsp; Response time < 24h</sub>
+
 </div>
