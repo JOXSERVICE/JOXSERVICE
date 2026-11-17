@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0c181b,100:2C7A7B&height=190&section=header&text=Abdelqawi%20El%20Adaly&fontSize=44&fontColor=e7efed&fontAlignY=40&desc=Full-Stack%20Developer%20%C2%B7%20Cairo%2C%20Egypt&descAlignY=62&descSize=17" width="100%" alt="Abdelqawi Aldaly"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0c181b,100:2C7A7B&height=190&section=header&text=Abdelqawi%20%20Aldaly&fontSize=44&fontColor=e7efed&fontAlignY=40&desc=Full-Stack%20Developer%20%C2%B7%20Cairo%2C%20Egypt&descAlignY=62&descSize=17" width="100%" alt="Abdelqawi Aldaly"/>
 
 <img src="https://github.com/JOXSERVICE/JOXSERVICE/blob/main/PHOTO-2026-11-17-14-11-58.jpg#:~:text=.github-,PHOTO%2D2026%2D11%2D17%2D14%2D11%2D58.jpg,-README.md" width="112" alt="Abdelqawi Aldaly"/>
 
