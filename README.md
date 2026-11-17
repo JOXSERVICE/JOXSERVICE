@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0c181b,100:2C7A7B&height=190&section=header&text=Abdelqawi%20El%20Adaly&fontSize=44&fontColor=e7efed&fontAlignY=40&desc=Full-Stack%20Developer%20%C2%B7%20Cairo%2C%20Egypt&descAlignY=62&descSize=17" width="100%" alt="Abdelqawi El Adaly"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0c181b,100:2C7A7B&height=190&section=header&text=Abdelqawi%20El%20Adaly&fontSize=44&fontColor=e7efed&fontAlignY=40&desc=Full-Stack%20Developer%20%C2%B7%20Cairo%2C%20Egypt&descAlignY=62&descSize=17" width="100%" alt="Abdelqawi Aldaly"/>
 
-<img src="PHOTO-2026-11-17-11-30-54.jpg" width="112" alt="Abdelqawi El Adaly"/>
+<img src="PHOTO-2026-11-17-11-30-54.jpg" width="112" alt="Abdelqawi Aldaly"/>
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&pause=1400&color=4FD1C5&center=true&vCenter=true&width=640&lines=I+build+complete+systems%2C+not+demos;Django+%2B+React+%2F+Next.js+end+to+end;Learning+how+systems+get+attacked" alt="Typing SVG"/></a>
 
