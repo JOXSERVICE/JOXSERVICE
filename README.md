@@ -5,7 +5,7 @@
 
 **Full-Stack Developer** — Cairo, Egypt
 
-[Email](mailto:aldalybdh327@gmail.com) · [LinkedIn](https://www.linkedin.com/in/abdou-s-73896138b) · [GitHub](https://github.com/JOXSERVICE) · [Codeforces](https://codeforces.com) · [Instagram](https://www.instagram.com/abdou_aldaly)
+[Email](mailto:aldalybdh327@gmail.com) · [LinkedIn](https://www.linkedin.com/in/abdou-samy-181433450/) · [GitHub](https://github.com/JOXSERVICE) · [Codeforces](https://codeforces.com) · [Instagram](https://www.instagram.com/abdou_aldaly)
 
 </div>
 
